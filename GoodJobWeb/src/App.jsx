@@ -59,7 +59,7 @@ const App = () => {
           <Route path="/oauth/callback" element={<OAuthCallback />} />
           
           {/* Public routes */}
-          <Route path="/" element={<Layout />}>
+          <Route path="/" element={<UserLayout />}>
             <Route index element={<Navigate to="/main" replace />} />
             <Route path="main" element={<UserDashboard />} />
           </Route>
