@@ -5,6 +5,11 @@
 ### Hướng dẫn cài đặt 
 ![Setup ](.github/assets/Video.mp4)
 
+### Hướng dẫn cài đặt Demo Chức năng cơ bản
+
+https://drive.google.com/file/d/1WcNsDNxK2gIkf9VTMnra5mgBk-av8RMN/view?usp=sharing
+
+
 
 ## Database Setup
 1. Install MySQL Server
