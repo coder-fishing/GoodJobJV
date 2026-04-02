@@ -12,7 +12,7 @@ https://drive.google.com/file/d/1WcNsDNxK2gIkf9VTMnra5mgBk-av8RMN/view?usp=shari
 
 
 ## Database Setup
-1. Install MySQL Server
+1. Install MySQL
 2. Create a new database named `au2`:
 ```sql
 CREATE DATABASE au2;
